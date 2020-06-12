@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Bau.cs">
+    <Files>
+      <File FileName="Assets\Script\Heroi.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Conta.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Cronometo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\JogarNovamente.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Bau.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Botao.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Certeza.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\NewButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Pontuacao.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
